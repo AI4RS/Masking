@@ -26,3 +26,6 @@ The implementation is tested under python 3.8, as well as pytorch 1.12 and torch
 For data privacy, the hyperspectral images used in the paper are not fully provided. Only 3 channel representations and their ground truths can be found in the images folder.
 
 For reference, please cite:
+E. Arbash et al., "Masking Hyperspectral Imaging Data with Pretrained Models," 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), Athens, Greece, 2023, pp. 1-5, doi: 10.1109/WHISPERS61460.2023.10431074. keywords: {Image segmentation;Filtering;Grounding;Pipelines;Data processing;Plastics;Hyperspectral imaging;Hyperspectral Imaging;Classification;Masking;SAM;Grounding Dino},
+
+
